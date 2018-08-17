@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<updates>
+  <update version="1.0.0">
+    <files>
+      <file path="ddc397ea3f46e1566395bc16ec985b54d4e9bde3/Components/LiveSplit.MC2.dll" status="changed"/>
+    </files>
+    <changelog>
+      <change>Pauses the Game Timer During Loads</change>
+    </changelog>
+  </update>
+</updates>
